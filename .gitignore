@@ -1,0 +1,15 @@
+# Fichiers générés par MPLAB
+*.cof
+*.err
+*.HEX
+*.lst
+*.map
+*.mcp
+*.mcs
+*.mcw
+*.O
+
+# Autres fichiers temporaires
+*.tmp
+*.bak
+*.log
